@@ -8,3 +8,5 @@ Hope see you here again soon. 👋
 !-->** 
 
 ![Snake animation](https://github.com/Vilhen-a/Vilhen-a/blob/output/github-contribution-grid-snake.svg)
+
+[![Generate Datas](https://github.com/Vilhen-a/Vilhen-a/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/Vilhen-a/Vilhen-a/actions/workflows/main.yml)
