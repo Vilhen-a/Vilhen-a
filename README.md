@@ -14,21 +14,21 @@
 Hope see you here again soon. 👋
 <div> 
   <a href="https://github.com/Vilhen-a">
-  <img height="162em" src="https://github-readme-stats.vercel.app/api?username=Vilhen-a&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vilhen-a&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Vilhen-a&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vilhen-a&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ### Currently, I'm studying these languages:
 
   <div style="display: inline_block">
-    <img align="center" height="50" alt="Java Icon" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-    <img align="center" height="50" alt="HTML5 Icon" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
-    <img align="center" height="50" alt="CSS3 Icon" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
-    <img align="center" height="50" alt="JS Icon" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img align="center" height="50" alt="React Native Icon" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="50" alt="Git Icon" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    <img align="center" height="50" alt="Node Js Icon" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="50" alt="SQL Icon" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">   
+    <img align="center" height="30" alt="Java Icon" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+    <img align="center" height="30" alt="HTML5 Icon" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+    <img align="center" height="30" alt="CSS3 Icon" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
+    <img align="center" height="30" alt="JS Icon" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img align="center" height="30" alt="React Native Icon" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" height="30" alt="Git Icon" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <img align="center" height="30" alt="Node Js Icon" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" height="30" alt="SQL Icon" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">   
   </div>
  
   <br>You'll find some projects using them, I hope they help you in some way!
